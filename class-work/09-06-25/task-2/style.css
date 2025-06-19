@@ -1,0 +1,20 @@
+.accordion-item p {
+    display: none;
+}
+
+.accordion-item p.show {
+    display: block;
+}
+
+h1 {
+    color: rgb(253, 21, 21);
+    background: #e5e6eb;
+    padding: 10px;
+    border: 2px solid #282727;
+}
+
+.accordion-item {
+    margin-inline: auto;
+    width: 30%;
+
+}
